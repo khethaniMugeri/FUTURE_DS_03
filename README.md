@@ -12,9 +12,7 @@
 ## 📌 Project Overview
 
 This project presents a full end-to-end marketing funnel and conversion
-analysis for X Education, an online education platform — the kind of
-analysis that growth analysts and marketing teams perform for real SaaS
-companies, startups, and digital businesses.
+analysis for X Education, an online education platform. 
 
 The goal is to answer real business questions such as:
 - Where are users dropping off in the funnel?
